@@ -1,0 +1,52 @@
+body{
+  font-family: "Montserrat";
+}
+
+#title{
+  /*background-color: #ff4c68;*/
+  background-color: #FF9933;
+  color: #fff;
+}
+
+.rows{
+  text-align: center;
+  font-family: "Limelight", cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+
+
+
+/* Navigation bar */
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* carousels */
+.carousels{
+  padding-top: 0.5%;
+  padding-left: 0.5%;
+  padding-right: 0.5%;
+  background-color: #EAF6F6;
+}
+
+/* Horizontal Line */
+hr{
+  border-style: dotted;
+  border-width: thick;
+  border-top: 0;
+  width: 5%;
+  color: #e4efe7;
+  margin: 50px auto 50px auto;
+}
