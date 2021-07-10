@@ -50,3 +50,34 @@ hr{
   color: #e4efe7;
   margin: 50px auto 50px auto;
 }
+
+
+
+
+
+/* bottom Line */
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+.linkedin{
+width: 5%;
+display: inline-block;
+
+}
+
+.twitter{
+  width: 5%;
+  display: inline-block;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  text-align: center;
+}
